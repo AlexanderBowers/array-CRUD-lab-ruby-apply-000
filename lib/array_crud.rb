@@ -7,7 +7,7 @@ array = [wow!, wow!, wow!, wow!]
 end
 
 def add_element_to_end_of_array(array, element)
-array2 << 2
+array << 2
 end
 
 def add_element_to_start_of_array(array, element)
