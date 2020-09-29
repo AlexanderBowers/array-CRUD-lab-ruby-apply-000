@@ -7,7 +7,7 @@ array2 = [arrays!, arrays!, arrays!, arrays!]
 end
 
 def add_element_to_end_of_array(array, element)
-Array << 2
+array2 << 2
 end
 
 def add_element_to_start_of_array(array, element)
